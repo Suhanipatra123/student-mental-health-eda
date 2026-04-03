@@ -44,31 +44,31 @@ This project aims to identify:
 
 ### 🔹 Bar Plot – Average Depression by Degree Level
 
-![Bar Plot](images/bar_degree_vs_depression.png)
+![Bar Plot](bar_degree_vs_depression.png)
 
 ### 🔹 Box Plot – Depression Distribution
 
-![Box Plot](images/box_degree_vs_depression.png)
+![Box Plot](box_degree_vs_depression.png)
 
 ### 🔹 Violin Plot – Anxiety vs Sports Engagement
 
-![Violin Plot](images/violin_sports_vs_anxiety.png)
+![Violin Plot](violin_sports_vs_anxiety.png)
 
 ### 🔹 Line Plot – Depression Trend Across Academic Years
 
-![Line Plot](images/line_academic_year_vs_depression.png)
+![Line Plot](line_academic_year_vs_depression.png)
 
 ### 🔹 Strip Plot – Depression by Degree & Gender
 
-![Strip Plot](images/stripplot_improved.png)
+![Strip Plot](stripplot_improved.png)
 
 ### 🔹 Pair Plot – Feature Relationships
 
-![Pair Plot](images/pairplot.png)
+![Pair Plot](pairplot.png)
 
 ### 🔹 Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](correlation_heatmap.png)
 
 
 
