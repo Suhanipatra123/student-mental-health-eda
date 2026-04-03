@@ -42,10 +42,6 @@ This project aims to identify:
 
 ## 📈 Visualizations
 
-### 🔹 Bar Plot – Average Depression by Degree Level
-
-![Bar Plot](bar_degree_vs_depression.png)
-
 ### 🔹 Box Plot – Depression Distribution
 
 ![Box Plot](box_degree_vs_depression.png)
