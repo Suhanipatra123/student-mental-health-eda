@@ -4,7 +4,7 @@
 
 This project explores student mental health using Exploratory Data Analysis (EDA). It focuses on understanding how academic pressure, lifestyle habits, and social factors impact mental health conditions such as depression and anxiety.
 
----
+
 
 ## ❗ Problem Statement
 
@@ -16,7 +16,7 @@ This project aims to identify:
 * The impact of academic pressure on students
 * The role of lifestyle habits (like sports) on mental well-being
 
----
+
 
 ## 🎯 Objectives
 
@@ -26,7 +26,7 @@ This project aims to identify:
 * Find key contributing factors to mental health issues
 * Provide actionable insights
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@ This project aims to identify:
 * Jupyter Notebook 📓
 * ydata-profiling 🤖
 
----
+
 
 ## 📈 Visualizations
 
@@ -70,7 +70,7 @@ This project aims to identify:
 
 ![Heatmap](images/correlation_heatmap.png)
 
----
+
 
 ## 🔍 Key Insights
 
@@ -80,7 +80,7 @@ This project aims to identify:
 * 📌 Postgraduate students show slightly higher stress levels
 * 📌 Lifestyle plays a major role in mental health
 
----
+
 
 ## 💡 Recommendations
 
@@ -90,7 +90,7 @@ This project aims to identify:
 * ⚖️ Promote work-life balance for students
 * 📢 Increase mental health awareness programs
 
----
+
 
 ## 🚀 Future Scope
 
@@ -98,7 +98,7 @@ This project aims to identify:
 * Build a mental health prediction system
 * Deploy as a web application
 
----
+
 
 ## 📂 Project Structure
 
@@ -107,13 +107,12 @@ This project aims to identify:
 * `EDA_Report.html`
 * `Student_Mental_Health_Analysis.pdf`
 
----
+
 
 ## ✨ Conclusion
 
 This project demonstrates how data analysis can be used to understand student mental health and identify key factors affecting well-being. The insights can help institutions take better decisions to support students.
 
----
 
 ## 👩‍💻 Author
 
